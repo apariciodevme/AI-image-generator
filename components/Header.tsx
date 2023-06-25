@@ -16,7 +16,7 @@ function Header() {
           <h1 className="font-semibold">
             <span className="text-violet-500">DALL-E</span> Image Generator
           </h1>
-          <h2 className="text-xs md:text-base">
+          <h2 className="text-xs font-medium tracking-tight text-gray-600 md:text-base">
             Powered by DALL-E 2, Chat GPT and Microsoft Azure.
           </h2>
         </div>
